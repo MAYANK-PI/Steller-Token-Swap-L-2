@@ -92,30 +92,20 @@ CDR24SX4QHNHQXD7XECHLXWBGQVAYXV4KRKZO5Q4M24DGNLLPBYP7YQ3
 
 Example swap transaction hash:
 
-PASTE_TRANSACTION_HASH_HERE
+829099565dce72ad2086be1ac1b5a5de4667baa285e8cdc8727445989f0b0be8
+
 
 Verify here:
 
 https://stellar.expert/explorer/testnet
 
----
 
-🖼 Screenshot – Wallet Options Available
-
-(Add screenshot here)
-
-Example:
-
-/screenshots/wallet-options.png
-
----
 
 ⚡ Setup Instructions
 
 1️⃣ Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/token-swap.git
-cd token-swap
+git clone https://github.com/MAYANK-PI/Steller-Token-Swap-L-2
 
 ---
 
@@ -205,13 +195,7 @@ Insufficient balance| ✅
 
 ---
 
-🌐 Live Demo (Optional)
 
-Add if deployed:
-
-https://your-demo-link.vercel.app
-
----
 
 👨‍💻 Author
 

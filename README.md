@@ -194,7 +194,16 @@ Insufficient balance| ✅
 ✔ Multi-wallet integration completed
 
 ---
+## Screenshots
 
+### Dashboard
+![Dashboard](Screenshots/Screenshot/stellar-dashboard-swap.png)
+
+### Swap Page
+![Swap Page](Screenshots/steller-swap.png)
+
+### Transaction Status
+![Status](Screenshots/steller-status-swap.png)
 
 
 👨‍💻 Author

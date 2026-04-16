@@ -55,7 +55,12 @@ token-swap/
 │
 ├── src/
 │   ├── Components/
-│   │   └── SwapForm.jsx
+│        └── SwapForm.jsx
+|           |--sidebar.jsx
+|           |---Eventlog.jsx
+|           |---WalletSelector.jsx
+|           |---TxStatus.jsx
+|          
 │
 │   ├── layout/
 │   │   └── Navbar.jsx

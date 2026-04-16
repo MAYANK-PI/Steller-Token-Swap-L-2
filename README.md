@@ -196,15 +196,52 @@ Insufficient balance| ✅
 ---
 ## Screenshots
 
-### Dashboard
-![Dashboard](Screenshots/Screenshot/stellar-dashboard-swap.png)
+### Wallet Connection
 
-### Swap Page
-![Swap Page](Screenshots/steller-swap.png)
 
-### Transaction Status
-![Status](Screenshots/steller-status-swap.png)
+![wallet-stellar-swap](Screenshots/wallet-stellar-swap.png)
 
+---
+
+### Wallet Options Selection
+
+![Wallet-options-stellar-swap](Screenshots/wallet-options-stellar-swap.png)
+
+---
+
+### Dashboard Page
+
+![stellar-dashboard-swap](Screenshots/stellar-dashboard-swap.png)
+
+---
+
+### Swap Interface
+
+![Stellar-swap ](Screenshots/Stellar-swap.png)
+
+---
+
+### Contract Interaction Page
+
+![Contract Page](Screenshots/stellar-contract-swap.png)
+
+---
+
+### Contract Events Listener (Real-time)
+
+![Contract Events](Screenshots/contract-event-stellar-swap.png)
+
+---
+
+### Transaction Status Tracking
+
+![Transaction Status](Screenshots/stellar--status-swap.png)
+
+---
+
+### Stellar Testnet Configuration
+
+![Stellar-testnet-network-StellarExpert](Screenshots/Stellar-testnet-network-StellarExpert.png)
 
 👨‍💻 Author
 

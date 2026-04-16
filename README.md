@@ -74,7 +74,7 @@ token-swap/
 │
 │   ├── contractClient.js      # Contract interaction logic
 │   ├── eventListener.js       # Real-time event listener
-│   ├── WalletKit.js           # Wallet integration
+│   ├── WalletIntegration.js           # Wallet integration
 │   ├── App.jsx
 │   └── main.jsx
 │

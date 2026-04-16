@@ -41,6 +41,23 @@ Network
 - Stellar Soroban Testnet
 
 ---
+## Wallet Integration
+
+This project integrates Stellar wallets using a dedicated integration file:
+
+src/walletIntegration.js
+
+Supported wallets:
+
+- Freighter
+- Albedo
+
+Error handling implemented:
+
+- Wallet not found
+- Transaction rejected
+- Insufficient balance
+----- 
 
 ## 📂 Project Structure
 
